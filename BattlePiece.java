@@ -1,4 +1,3 @@
-package uk.ac.nulondon;
 
 import doodlepad.Rectangle;
 import doodlepad.Text;
